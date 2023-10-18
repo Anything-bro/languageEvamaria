@@ -172,3 +172,11 @@ python3 bot.py
 
 ## Thanks to 
  -  Thanks To [Sahil](https://telegram.dog/itz_sahil_official) 
+
+##DEPLOY TO
+
+- HEROKU - [CLICK HERE](https://heroku.com/deploy?template=https://github.com/Anything-bro/languageEvamaria)
+
+- <p align="center">
+                    <b>ENJOY GUYS</b>
+</p>
