@@ -1,6 +1,5 @@
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ 😍</b>"""
+    START_TXT = """<b>Hᴇʟʟᴏ {}😊,Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>,\n\n I am a Movies/Web-Series Giver Bot By @Itz_Sahil_Official 😍\n\nPlease Join ~ @chat_official_sahil💌</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
